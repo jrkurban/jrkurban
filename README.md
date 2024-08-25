@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUwNjd3ZjV0eW11ZGN2eGR0NnhxZTZ4dWtnZG1peHl6NnVtaHlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCK7W8Qb52ifS/giphy.webp" height="100" /> Hi, I'm Alp</h1>
+<h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUwNjd3ZjV0eW11ZGN2eGR0NnhxZTZ4dWtnZG1peHl6NnVtaHlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCK7W8Qb52ifS/giphy.webp" height="50" /> Hi, I'm Alp</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">

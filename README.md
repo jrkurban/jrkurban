@@ -1,7 +1,6 @@
-# jrkurban
+# Hi, I'm Batuhan Alp Kurban
 
-Merhaba! Ben **jrkurban**, yazılım geliştirme konusunda tutkulu bir geliştiriciyim. GitHub üzerindeki projelerim ve çalışmalarım hakkında bilgi bulabilirsiniz.
-
+A passionate Data Engineer
 ## Projelerim
 
 ### [Proje 1](https://github.com/jrkurban/proje1)

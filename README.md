@@ -27,7 +27,7 @@
 <a href="https://github.com/jrkurban">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jrkurban&show_icons=true&theme=prussian" />
 </a>
-<a href="https://github.com/bilgecakar">
+<a href="https://github.com/jrkurban">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrkurban&layout=donut&theme=prussian" />
 </a>
 

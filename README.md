@@ -17,7 +17,7 @@
 <img align="center" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" alt="java" height = "80" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1024px-Scala-full-color.svg.png" alt="scala" height = "80" />
 <img align="center" src="https://blog.ozkula.com/wp-content/uploads/2023/06/postgresql-nedir.jpg" alt="postgresql" height = "80" />
-<img align="center" src="https://logowik.com/content/uploads/images/tableau2666.logowik.com.webp" alt="tableau" height="80" />
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCsnH-LecjXUO0ujaEgMSALxOVGEf_7KSZA&s" alt="kafka" height="80" />
 </p>
 
 <h3 align="left">Learnings:</h3>

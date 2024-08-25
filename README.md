@@ -1,31 +1,36 @@
-# Hi, I'm Batuhan Alp Kurban
 
-A passionate Data Engineer
-## Projelerim
+<h1 align="center"><img src="https://64.media.tumblr.com/c0df6288f72fa72b32fa9712584afcf2/tumblr_nuzzgkfGLq1udse8eo1_500.gif" height="100" /> Hi, I'm Batuhan Alp</h1>
+<h3 align="center">A passionate Data Engineer</h3>
 
-### [Proje 1](https://github.com/jrkurban/proje1)
-Açıklama: Bu proje, [Proje 1'in kısa açıklaması] hakkında bilgiler içerir.
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndqd3QxbjVxeXJ6ZjA2OHpvcTdxZjByY3dpcnJ1cWVqOHJobGJqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" width="100%" height="auto" alt="GIF"/>
+  </div>
+  <div style="flex: 1; padding-right: 20px;">
+    <p> <br>Hi! I’m a Software/Data Engineer from Istanbul with a keen interest in data analysis. I’m passionate about technology and, especially, the power of data. I believe that when analyzed correctly, data can reveal incredibly valuable insights, and I am committed to continuously developing my skills in this field.</p>
+  </div>
+ 
+</div>
+<h3 align="left">Skills:</h3>
+<p style="text-align:left">
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*m0H6-tUbW6grMlezlb52yw.png" alt="python" height = "80" />
+<img align="center" src="https://blog.ozkula.com/wp-content/uploads/2023/06/postgresql-nedir.jpg" alt="postgresql" height = "80" />
+<img align="center" src="https://logowik.com/content/uploads/images/tableau2666.logowik.com.webp" alt="tableau" height="80" />
+</p>
 
-### [Proje 2](https://github.com/jrkurban/proje2)
-Açıklama: Bu proje, [Proje 2'nin kısa açıklaması] hakkında bilgiler içerir.
+<h3 align="left">Learnings:</h3>
+<p style="text-align:left">
+<img align="center" src="https://i.pinimg.com/originals/ff/ca/de/ffcade7ea39de9b876eb76bbbd4fedb5.png" alt="powerbi" height = "80" />
+</p>
+<hr></hr>
 
-### [Proje 3](https://github.com/jrkurban/proje3)
-Açıklama: Bu proje, [Proje 3'ün kısa açıklaması] hakkında bilgiler içerir.
+<a href="https://github.com/jrkurban">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jrkurban&show_icons=true&theme=prussian" />
+</a>
+<a href="https://github.com/bilgecakar">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrkurban&layout=donut&theme=prussian" />
+</a>
 
-## İletişim
-
-- **E-posta**: [email@example.com](mailto:email@example.com)
-- **LinkedIn**: [LinkedIn Profiliniz](https://www.linkedin.com/in/profiliniz)
-- **Twitter**: [@TwitterKullaniciAdi](https://twitter.com/TwitterKullaniciAdi)
-
-## Katkıda Bulunma
-
-Katkıda bulunmak istiyorsanız, lütfen [Katkı Rehberi](https://github.com/jrkurban/katki-rehberi) dokümanını inceleyin. Her türlü katkı, öneri ve geri bildirim için açığım!
-
-## Lisans
-
-Bu projeler [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır. Daha fazla bilgi için [Lisans Dosyası](https://github.com/jrkurban/proje1/blob/main/LICENSE) dokümanına göz atabilirsiniz.
-
----
-
-GitHub profilime hoş geldiniz! Herhangi bir sorunuz veya öneriniz varsa, bana ulaşmaktan çekinmeyin.
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrkurban" alt="jrkurban" /> </p>
+ </div>

@@ -1,16 +1,32 @@
-## Hi there 👋
+# jrkurban
 
-<!--
-**jrkurban/jrkurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben **jrkurban**, yazılım geliştirme konusunda tutkulu bir geliştiriciyim. GitHub üzerindeki projelerim ve çalışmalarım hakkında bilgi bulabilirsiniz.
 
-Here are some ideas to get you started:
+## Projelerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Proje 1](https://github.com/jrkurban/proje1)
+Açıklama: Bu proje, [Proje 1'in kısa açıklaması] hakkında bilgiler içerir.
+
+### [Proje 2](https://github.com/jrkurban/proje2)
+Açıklama: Bu proje, [Proje 2'nin kısa açıklaması] hakkında bilgiler içerir.
+
+### [Proje 3](https://github.com/jrkurban/proje3)
+Açıklama: Bu proje, [Proje 3'ün kısa açıklaması] hakkında bilgiler içerir.
+
+## İletişim
+
+- **E-posta**: [email@example.com](mailto:email@example.com)
+- **LinkedIn**: [LinkedIn Profiliniz](https://www.linkedin.com/in/profiliniz)
+- **Twitter**: [@TwitterKullaniciAdi](https://twitter.com/TwitterKullaniciAdi)
+
+## Katkıda Bulunma
+
+Katkıda bulunmak istiyorsanız, lütfen [Katkı Rehberi](https://github.com/jrkurban/katki-rehberi) dokümanını inceleyin. Her türlü katkı, öneri ve geri bildirim için açığım!
+
+## Lisans
+
+Bu projeler [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır. Daha fazla bilgi için [Lisans Dosyası](https://github.com/jrkurban/proje1/blob/main/LICENSE) dokümanına göz atabilirsiniz.
+
+---
+
+GitHub profilime hoş geldiniz! Herhangi bir sorunuz veya öneriniz varsa, bana ulaşmaktan çekinmeyin.

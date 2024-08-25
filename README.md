@@ -23,6 +23,7 @@
 <h3 align="left">Learnings:</h3>
 <p style="text-align:left">
 <img align="center" src="https://i.pinimg.com/originals/ff/ca/de/ffcade7ea39de9b876eb76bbbd4fedb5.png" alt="powerbi" height = "80" />
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*jnQW5PKug7h6sv-u6MhfzA.png" alt="go" height = "80" />
 </p>
 <hr></hr>
 

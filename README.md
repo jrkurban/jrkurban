@@ -14,6 +14,8 @@
 <h3 align="left">Skills:</h3>
 <p style="text-align:left">
 <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*m0H6-tUbW6grMlezlb52yw.png" alt="python" height = "80" />
+<img align="center" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" alt="java" height = "80" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1024px-Scala-full-color.svg.png" alt="scala" height = "80" />
 <img align="center" src="https://blog.ozkula.com/wp-content/uploads/2023/06/postgresql-nedir.jpg" alt="postgresql" height = "80" />
 <img align="center" src="https://logowik.com/content/uploads/images/tableau2666.logowik.com.webp" alt="tableau" height="80" />
 </p>
